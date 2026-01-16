@@ -3,17 +3,17 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:ff79c6,100:0d1117&height=200&section=header&text=karanpreetsingh1990&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=SRE&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:ff79c6,100:0d1117&height=200&section=header&text=karanpreetsingh1990&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Site%20Reliability%20Engineer&descAlignY=55&descSize=20" width="100%"/>
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/karanpreetsingh1990">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF79C6&center=true&vCenter=true&repeat=true&width=800&height=45&lines=Helping%20Enterprises%20scale%20reliably" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF79C6&center=true&vCenter=true&repeat=true&width=800&height=45&lines=Helping%20Enterprises%20scale%20reliably." alt="Typing SVG" />
 </a>
 
 <!-- PROFILE BADGES -->
 <p>
-  <img src="https://img.shields.io/badge/Focus-SRE-ff79c6?style=for-the-badge" alt="focus"/>
-  <img src="https://img.shields.io/badge/10+_Years-On_GitHub-ff79c6?style=for-the-badge" alt="years"/>
+  <img src="https://img.shields.io/badge/Focus-Site-ff79c6?style=for-the-badge" alt="focus"/>
+  <img src="https://img.shields.io/badge/11+_Years-On_GitHub-ff79c6?style=for-the-badge" alt="years"/>
   <img src="https://img.shields.io/badge/3-Stars_Earned-ff79c6?style=for-the-badge" alt="stars"/>
   <img src="https://komarev.com/ghpvc/?username=karanpreetsingh1990&style=for-the-badge&color=ff79c6" alt="views"/>
 </p>
@@ -33,18 +33,19 @@
 
 
 
-💼 **13+ years in Observability**
+💼 **13+ years in Observability and AIOps**
 
-🔭 Currently working on **[hire-karan](https://github.com/karanpreetsingh1990/hire-karan)**
+🔭 Currently working on **[karanpreetsingh1990](https://github.com/karanpreetsingh1990/karanpreetsingh1990)**
 
-🌱 Currently learning **AI/ML**
+🌱 Currently learning **AI/ML, Kubernetes**
 
+💬 Ask me about **Observability, AIOps, Automation**
 
-🎓 Certifications: **Azure Administrator Associate, Zabbix Certified Expert**
+🎓 Certifications: **Azure Administrator Associate, Zabbix Certified Expert, ITIL V4 Foundation**
 
 ⚡ Fun fact: **I turn coffee into code.**
 
-📦 **6** repositories | ⭐ **3** stars
+📦 **7** repositories | ⭐ **3** stars
 
 <br clear="right"/>
 
@@ -101,7 +102,10 @@
 <div align="center">
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="flask"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 <img src="https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
 </div>
 
 </td>
@@ -112,14 +116,13 @@
 <div align="center">
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="kubernetes"/>
 <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="azure"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="githubactions"/>
 <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" alt="azuredevops"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/>
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="kubernetes"/>
 <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="terraform"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="aws"/>
 <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="azure"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
 </div>
 
 </td>
@@ -133,9 +136,10 @@
 
 <div align="center">
 
-<a href="https://github.com/karanpreetsingh1990/hire-karan"><img src="https://github-readme-stats.vercel.app/api/pin/?username=karanpreetsingh1990&repo=hire-karan&theme=dracula&hide_border=true&bg_color=0d1117&title_color=ff79c6&icon_color=ff79c6&text_color=c9d1d9" alt="hire-karan"/></a>
 <a href="https://github.com/karanpreetsingh1990/apiserver"><img src="https://github-readme-stats.vercel.app/api/pin/?username=karanpreetsingh1990&repo=apiserver&theme=dracula&hide_border=true&bg_color=0d1117&title_color=ff79c6&icon_color=ff79c6&text_color=c9d1d9" alt="apiserver"/></a>
-<a href="https://github.com/karanpreetsingh1990/argus-observability-lab"><img src="https://github-readme-stats.vercel.app/api/pin/?username=karanpreetsingh1990&repo=argus-observability-lab&theme=dracula&hide_border=true&bg_color=0d1117&title_color=ff79c6&icon_color=ff79c6&text_color=c9d1d9" alt="argus-observability-lab"/></a>
+<a href="https://github.com/karanpreetsingh1990/argos-observability-lab"><img src="https://github-readme-stats.vercel.app/api/pin/?username=karanpreetsingh1990&repo=argos-observability-lab&theme=dracula&hide_border=true&bg_color=0d1117&title_color=ff79c6&icon_color=ff79c6&text_color=c9d1d9" alt="argos-observability-lab"/></a>
+<a href="https://github.com/karanpreetsingh1990/hire-karan"><img src="https://github-readme-stats.vercel.app/api/pin/?username=karanpreetsingh1990&repo=hire-karan&theme=dracula&hide_border=true&bg_color=0d1117&title_color=ff79c6&icon_color=ff79c6&text_color=c9d1d9" alt="hire-karan"/></a>
+<a href="https://github.com/karanpreetsingh1990/karanpreetsingh1990"><img src="https://github-readme-stats.vercel.app/api/pin/?username=karanpreetsingh1990&repo=karanpreetsingh1990&theme=dracula&hide_border=true&bg_color=0d1117&title_color=ff79c6&icon_color=ff79c6&text_color=c9d1d9" alt="karanpreetsingh1990"/></a>
 <a href="https://github.com/karanpreetsingh1990/zabbix-azure-elasticpools"><img src="https://github-readme-stats.vercel.app/api/pin/?username=karanpreetsingh1990&repo=zabbix-azure-elasticpools&theme=dracula&hide_border=true&bg_color=0d1117&title_color=ff79c6&icon_color=ff79c6&text_color=c9d1d9" alt="zabbix-azure-elasticpools"/></a>
 
 </div>
@@ -154,13 +158,6 @@
 </thead>
 <tbody>
 <tr>
-<td><a href="https://github.com/karanpreetsingh1990/hire-karan"><b>hire-karan</b></a></td>
-<td>No description</td>
-<td><img src="https://img.shields.io/badge/1-gold?style=flat-square&logo=star" alt="stars"/></td>
-<td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
-<td><img src="https://img.shields.io/badge/HTML-gray?style=flat-square" alt="language"/></td>
-</tr>
-<tr>
 <td><a href="https://github.com/karanpreetsingh1990/apiserver"><b>apiserver</b></a></td>
 <td>Simple Flask API to server CSV files as JSON.</td>
 <td><img src="https://img.shields.io/badge/1-gold?style=flat-square&logo=star" alt="stars"/></td>
@@ -168,9 +165,23 @@
 <td><img src="https://img.shields.io/badge/Python-gray?style=flat-square" alt="language"/></td>
 </tr>
 <tr>
-<td><a href="https://github.com/karanpreetsingh1990/argus-observability-lab"><b>argus-observability-lab</b></a></td>
-<td>Argus: The Observability Lab provides a simple to use kubern...</td>
+<td><a href="https://github.com/karanpreetsingh1990/argos-observability-lab"><b>argos-observability-lab</b></a></td>
+<td>Argos: The Observability Lab provides a simple to use kubern...</td>
 <td><img src="https://img.shields.io/badge/1-gold?style=flat-square&logo=star" alt="stars"/></td>
+<td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
+<td><img src="https://img.shields.io/badge/HCL-gray?style=flat-square" alt="language"/></td>
+</tr>
+<tr>
+<td><a href="https://github.com/karanpreetsingh1990/hire-karan"><b>hire-karan</b></a></td>
+<td>No description</td>
+<td><img src="https://img.shields.io/badge/1-gold?style=flat-square&logo=star" alt="stars"/></td>
+<td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
+<td><img src="https://img.shields.io/badge/HTML-gray?style=flat-square" alt="language"/></td>
+</tr>
+<tr>
+<td><a href="https://github.com/karanpreetsingh1990/karanpreetsingh1990"><b>karanpreetsingh1990</b></a></td>
+<td>My GitHub Profile README</td>
+<td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
 <td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
 <td><img src="https://img.shields.io/badge/N%2FA-gray?style=flat-square" alt="language"/></td>
 </tr>
@@ -185,7 +196,7 @@
 </table>
 
 <p align="center">
-  <i>💡 Total of <b>6</b> repositories — <b>3</b> stars earned</i>
+  <i>💡 Total of <b>7</b> repositories — <b>3</b> stars earned</i>
 </p>
 
 
@@ -217,11 +228,11 @@
 </td>
 
 <td align="center">
-<img src="https://img.shields.io/badge/📦_Repositories-6-green?style=for-the-badge" alt="Repos"/>
+<img src="https://img.shields.io/badge/📦_Repositories-7-green?style=for-the-badge" alt="Repos"/>
 </td>
 
 <td align="center">
-<img src="https://img.shields.io/badge/📅_Years_Active-10+-orange?style=for-the-badge" alt="Years"/>
+<img src="https://img.shields.io/badge/📅_Years_Active-11+-orange?style=for-the-badge" alt="Years"/>
 </td>
 </tr>
 </table>

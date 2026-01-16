@@ -7,7 +7,7 @@
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/karanpreetsingh1990">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF79C6&center=true&vCenter=true&repeat=true&width=800&height=45&lines=Helping%20Enterprises%20scale%20reliably%20without%20breaking%20the%20bank" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF79C6&center=true&vCenter=true&repeat=true&width=800&height=45&lines=Helping%20Enterprises%20scale%20reliably" alt="Typing SVG" />
 </a>
 
 <!-- PROFILE BADGES -->

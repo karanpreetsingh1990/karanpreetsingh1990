@@ -62,14 +62,14 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="30" height="30" /> GitHub Analytics
 
-<div align="center">
+<!-- <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karanpreetsingh1990&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117&title_color=ff79c6&icon_color=ff79c6&text_color=ffffff&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanpreetsingh1990&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117&title_color=ff79c6&text_color=ffffff&langs_count=8"/>
 </div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=karanpreetsingh1990&theme=dracula&hide_border=true&background=0d1117&stroke=ff79c6&ring=ff79c6&fire=ff6b6b&currStreakLabel=ff79c6" alt="GitHub Streak"/>
-</div>
+</div> -->
 
 <!-- GitHub Trophies -->
 <div align="center">
